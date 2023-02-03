@@ -60,4 +60,6 @@ for(int i=0;i<3;i++)
 printf("%d %s %f\n",arr[i].rollno,arr[i].name,arr[i].marks);
 
 }
+    
+    printf("Thanks For joining us in our learning journey");
 }
